@@ -1,3 +1,5 @@
+![image](https://github.com/RZJournal/RZJournal/assets/140927448/9b948b77-61b5-44ef-90bc-f5013cb3e186)Check out my articles at - rzjournal.com
+
 - 👋 Hi, I’m @RZJournal
 - 👀 I’m interested in ... Robotics, Machine Learning, and TinyML
 - 📫 How to reach me ... rzjournal@rzjournal.com
