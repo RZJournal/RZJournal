@@ -1,4 +1,4 @@
-Check out my articles at - rzjournal.com
+Check out my articles at - [rzjournal.com]
 
 - 👋 Hi, I’m @RZJournal
 - 👀 I’m interested in ... Robotics, Machine Learning, and TinyML
