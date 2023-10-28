@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @RZJournal<br>📝 Pursuing research in deep learning, edge computing, and federated learning.<br>👀 I’m interested in ... Robotics, Machine Learning, Federated Learning, TinyML, and Edge AI<br>📝 I write about, you guessed it... Robotics and Machine Learning Projects<br>📫 How to reach me ... rzjournal@rzjournal.com
+👋 Hi, I’m @RZJournal<br>📝 Pursuing research in deep learning, edge computing, and federated learning.<br>👀 I’m interested in ... Robotics and TinyML Applications<br>📝 I write about, you guessed it... Robotics and Machine Learning Projects<br>📫 How to reach me ... rzjournal@rzjournal.com
 
 
 ## 🌐 Socials:
