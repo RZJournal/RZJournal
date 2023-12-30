@@ -1,8 +1,7 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rzjournal&theme=nord_bright)
-
 # 💫 About Me:
 👋 Hi, I’m @RZJournal<br>📝 Pursuing research in deep learning, edge computing, and federated learning.<br>👀 I’m interested in ... Large Language Models, Robotics and TinyML Applications<br>📝 I write about... Robotics and Machine Learning Projects<br>📫 How to reach me ... rzjournal@rzjournal.com
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rzjournal&theme=nord_bright)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/TheRZJournal/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/TheRZJournal) 
