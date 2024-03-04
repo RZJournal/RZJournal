@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @RZJournal, sophomore in high school<br>📝 Pursuing research in Deep Learning, Generative AI, and Edge Computing<br>👀 I’m interested in ... Large Language Models, Robotics and TinyML Applications<br>📝 I write about... Robotics and Machine Learning Projects<br>📫 How to reach me ... rzjournal@rzjournal.com
+👋 Hi, I’m @RZJournal<br>📝 Pursuing research in Deep Learning, Generative AI, and Edge Computing<br>👀 I’m interested in ... Large Language Models, Robotics and TinyML Applications<br>📝 I write about... Robotics and Machine Learning Projects<br>📫 How to reach me ... rzjournal@rzjournal.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/TheRZJournal/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/TheRZJournal) 
